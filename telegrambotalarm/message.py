@@ -26,7 +26,7 @@ class Message:
 
 def intro_message():
     intro = '\n'
-    intro += 'Your code seems to have runed smoothly and here are the results:'
+    intro += 'Divergence Capital I TRAIDER - % Day Change Volatility:'
     intro += '\n---------------------------------------'
     return intro
 
